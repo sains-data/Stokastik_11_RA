@@ -41,7 +41,7 @@ Penelitian ini menggunakan pendekatan kuantitatif dengan rincian sebagai berikut
 
 Tabel berikut menunjukkan peluang perpindahan pengguna dari satu platform (baris) ke platform lain (kolom) dalam satu langkah waktu:
 
-| Dari \ Ke | Instagram | WhatsApp | Website Kampus |
+| Dari/Ke | Instagram | WhatsApp | Website Kampus |
 | :--- | :--- | :--- | :--- |
 | **Instagram** | 0.00 | 0.53 | 0.47 |
 | **WhatsApp** | 0.70 | 0.00 | 0.30 |
