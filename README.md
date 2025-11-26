@@ -1,4 +1,4 @@
-# Analisis Pola Transisi Platform Informasi Kampus Menggunakan Rantai Markov
+# 📊Analisis Pola Transisi Platform Informasi Kampus Menggunakan Rantai Markov
 
 **Studi Kasus: Program Studi Sains Data, Institut Teknologi Sumatera (ITERA)**
 
